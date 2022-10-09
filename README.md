@@ -37,6 +37,8 @@ Reduce interruptions as much as possible. Only consult your emails twice a day, 
 Illich’s Law says that “beyond a certain threshold, human efficiency decreases, even becoming negative.” It is Ivan Illich, an Austrian ecologist thinker, who came up with this principle.
 Beyond 90 minutes spent on a task, our attention and our effectiveness diminishes. The more we try to continue working, the less high performing we are. If you do not manage to finish a task, stop worrying and take a break.
 
+Learn to take breaks. At noon, take a real lunch break. Go and eat outside on your own or with colleagues or leave to take a walk, but avoid eating a sandwich in front of your screen. Your brain needs breaks to be productive.
+
 # [Laborit's Law, Diminishing returns](https://en.wikipedia.org/wiki/Henri_Laborit)
 According to Henri Laborit, a French surgeon and neurobiologist, our behaviour drives us to do what makes us happy first. At work, our instinct makes us avoid stress. It is because of this that we procrastinate, in other words we postpone a task until the next day. Laborit’s Law is also nicknamed “The Law of the Least Effort”, underlining the fact that we prefer to carry out tasks that give us immediate satisfaction.
 
