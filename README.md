@@ -53,3 +53,6 @@ The project manager and their team should estimate more fully the time needed to
 # [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
 Occam's razor, also known as the principle of parsimony or the law of parsimony, is the problem-solving principle that "entities should not be multiplied beyond necessity". It is generally understood in the sense that with competing theories or explanations, the simpler one, for example a model with fewer parameters, is to be preferred. The idea is frequently attributed to English Franciscan friar William of Ockham (c.  1287–1347), a scholastic philosopher and theologian, although he never used these exact words. This philosophical razor advocates that when presented with competing hypotheses about the same prediction, one should select the solution with the fewest assumptions,[3] and that this is not meant to be a way of choosing between hypotheses that make different predictions.
 
+# [Brooks's law](https://en.wikipedia.org/wiki/Brooks%27s_law)
+Brooks' law is an observation about software project management according to which adding more individuals to a software project that is behind schedule delays it even longer.
+
