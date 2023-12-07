@@ -28,7 +28,7 @@ Wirth's law is an adage on computer performance which states that software is ge
 # [Curse of knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge)
 The curse of knowledge is a cognitive bias that occurs when an individual, communicating with other individuals, unknowingly assumes that the others have the background to understand. This bias is also called by some authors the curse of expertise.
 
-# [Carlson Curve, Law of homogeneous sequences](https://en.wikipedia.org/wiki/Sune_Carlson)
+# [Carlson Law](https://en.wikipedia.org/wiki/Sune_Carlson)
 Carlson’s Law is about the negative impact of involuntary breaks. Taking much-needed and deserved intentional breaks is one thing – getting involuntarily distracted is another. It is proven: interruption seriously wrecks productivity.
 
 Reduce interruptions as much as possible. Only consult your emails twice a day, avoid multitasking, start a task and finish it before passing onto the next one, and isolate yourself to work as soon as possible.
