@@ -56,3 +56,6 @@ Occam's razor, also known as the principle of parsimony or the law of parsimony,
 # [Brooks's law](https://en.wikipedia.org/wiki/Brooks%27s_law)
 Brooks' law is an observation about software project management according to which adding more individuals to a software project that is behind schedule delays it even longer.
 
+# [Braess's paradox](https://en.wikipedia.org/wiki/Braess%27s_paradox)
+Braess's paradox is the observation that adding one or more roads to a road network can slow down overall traffic flow through it.
+
