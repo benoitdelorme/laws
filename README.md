@@ -59,3 +59,5 @@ Brooks' law is an observation about software project management according to whi
 # [Braess's paradox](https://en.wikipedia.org/wiki/Braess%27s_paradox)
 Braess's paradox is the observation that adding one or more roads to a road network can slow down overall traffic flow through it.
 
+# [Goodhart's law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
+Any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes.
